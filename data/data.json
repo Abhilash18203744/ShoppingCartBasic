@@ -1,0 +1,10 @@
+{
+  "price_details":[
+    {"item_name": "apple",
+    "item_price": 1.0},
+    {"item_name": "kiwi",
+    "item_price": 3.0},
+    {"item_name": "banana",
+    "item_price": 1.1}
+  ]
+}

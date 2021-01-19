@@ -1,0 +1,19 @@
+{
+  "currency_conversion":[
+    {
+      "currency_name": "USD",
+      "conversion_factor": 1.19,
+      "sign": "$"
+    },
+    {
+      "currency_name": "GBP",
+      "conversion_factor": 0.90,
+      "sign": "£"
+    },
+    {
+      "currency_name": "Euro",
+      "conversion_factor": 1.00,
+      "sign": "€"
+    }
+  ]
+}
